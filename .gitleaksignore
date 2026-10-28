@@ -1,4 +1,4 @@
-32f597a
-57f638b
-c5f265d
-e0045e6
+config/env/test.js
+config/env/development.js
+artifacts/cert/server.key
+app/cert/key.pem
